@@ -1,5 +1,0 @@
-program
-prf
-fpt
-2@@
-123
