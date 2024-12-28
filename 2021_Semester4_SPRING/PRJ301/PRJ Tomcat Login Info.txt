@@ -1,3 +1,0 @@
-username: trphong
-password: Phong123
-Port: 8080
