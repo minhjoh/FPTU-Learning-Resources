@@ -1,2 +1,0 @@
-JAVA ClockManager.Tester
-pause

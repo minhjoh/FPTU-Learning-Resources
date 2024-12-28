@@ -1,2 +1,0 @@
-JAVA ProductManagement.ProductManager
-PAUSE
